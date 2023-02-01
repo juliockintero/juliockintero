@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Cesar Quintero</h1>
 <h3 align="center">A web developer from Colombia</h3>
 
-- 🔭 I’m currently working on [servicassas](https://servicassas.com) and [servicassas] (https://movies-app-jq.netlify.app/)
+- 🔭 I’m currently working on [servicassas](https://servicassas.com) 
 
 - 🌱 I’m currently learning **React,Nodejs,Django**
 
